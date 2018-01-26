@@ -23,3 +23,5 @@ class Game
     mon_plateau.afficher()
     puts
   end
+
+end
